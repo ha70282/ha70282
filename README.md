@@ -28,7 +28,7 @@
 ### 📍 About Me
 
 - 🏡 Based in **Gangneung, Republic of Korea**
-- 📫 Email: your_email@example.com
+- 📫 Email: ha70282@naver.com
 
 ---
 

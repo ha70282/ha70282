@@ -18,6 +18,30 @@
 
 ---
 
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=aura"
+  />
+  <img 
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ha70282&theme=transparent&hide_border=true&ring=7fe6ff&fire=f38ba8&currStreakLabel=89ddff"
+  />
+</div>
+
+ <br/><br/> 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg" width="800">
+  </picture>
+</p>
+
+---
+
 ## 🧩 Solved.ac
 
 <div align="center">
@@ -29,15 +53,6 @@
 
   <img src="http://mazandi.herokuapp.com/api?handle=ha70282&theme=warm" width="300"/>
 </div>
- <br/><br/> 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg" width="800">
-  </picture>
-</p>
-
 ---
 
 ## 📊 GitHub Stats & Streak

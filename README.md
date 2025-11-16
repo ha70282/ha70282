@@ -43,7 +43,7 @@
 <br/><br/>
 
 <!-- Solved.ac Stats -->
-<img src="http://mazandi.herokuapp.com/api?handle=ha70282&theme=warm" width="300" />
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={random-scmqc}&theme=dark)
 
 <br/><br/>
 

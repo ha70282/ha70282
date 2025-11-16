@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Welcome!&fontColor=ffffff&fontSize=45)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=B4B3FF&center=true&vCenter=true&width=450&height=70&lines=Hello%2C+I%E2%80%99m+Ha7028+%F0%9F%91%8B;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
@@ -116,5 +118,7 @@
 <p align="center">
   <i>🌱 Thanks for stopping by!</i>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer)
 
 

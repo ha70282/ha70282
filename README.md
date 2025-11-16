@@ -14,26 +14,51 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+## 🛠 Tech Stack
 
-### 🔤 Languages  
-<img src="https://img.shields.io/badge/Python-7fe6ff?style=flat&logo=python&logoColor=1a1b26" />
-<img src="https://img.shields.io/badge/C-7fe6ff?style=flat&logo=c&logoColor=1a1b26" />
-<img src="https://img.shields.io/badge/C++-7fe6ff?style=flat&logo=cplusplus&logoColor=1a1b26" />
-<img src="https://img.shields.io/badge/C%23-7fe6ff?style=flat&logo=csharp&logoColor=1a1b26" />
-<img src="https://img.shields.io/badge/JavaScript-ffe066?style=flat&logo=javascript&logoColor=1a1b26" />
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  </a>
+</p>
 
-### 🎨 Frontend  
-<img src="https://img.shields.io/badge/HTML5-f58a8a?style=flat&logo=html5&logoColor=1a1b26" />
-<img src="https://img.shields.io/badge/CSS3-7dc4ff?style=flat&logo=css3&logoColor=1a1b26" />
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+  </a>
+</p>
 
-### 🔧 Backend  
-<img src="https://img.shields.io/badge/SpringBoot-a6e3a1?style=flat&logo=springboot&logoColor=1a1b26" />
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45"/>
+  </a>
+</p>
 
-### ☁️ Cloud  
-<img src="https://img.shields.io/badge/Azure-7dc4ff?style=flat&logo=microsoftazure&logoColor=1a1b26" />
+<h3 align="center">Cloud</h3>
+<p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45"/>
+  </a>
+</p>
 
-</div>
 
 ---
 

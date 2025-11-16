@@ -57,6 +57,11 @@
 <img src="https://ghchart.rshah.org/4de2cf/ha70282" width="750"/>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg">
+</picture>
 
 
 

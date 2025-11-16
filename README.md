@@ -15,6 +15,8 @@
 ### 🔤 Languages  
 <img src="https://img.shields.io/badge/Python-7fe6ff?style=flat&logo=python&logoColor=1a1b26" />
 <img src="https://img.shields.io/badge/C-7fe6ff?style=flat&logo=c&logoColor=1a1b26" />
+<img src="https://img.shields.io/badge/C++-7fe6ff?style=flat&logo=cplusplus&logoColor=1a1b26" />
+<img src="https://img.shields.io/badge/C%23-7fe6ff?style=flat&logo=csharp&logoColor=1a1b26" />
 <img src="https://img.shields.io/badge/JavaScript-ffe066?style=flat&logo=javascript&logoColor=1a1b26" />
 
 ### 🎨 Frontend  
@@ -62,7 +64,10 @@
 ## 🔥 GitHub Streaks (Aura color tuning)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img 
+    height="200"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ha70282&theme=transparent&hide_border=true&ring=7fe6ff&fire=f38ba8&currStreakLabel=89ddff"
+  />
 </div>
 
 ---
@@ -82,4 +87,5 @@
 <p align="center">
   <i>🌱 Thanks for stopping by!</i>
 </p>
+
 

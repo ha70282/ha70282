@@ -62,17 +62,7 @@
 ## 🔥 GitHub Streaks (Aura color tuning)
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ha70282
-    &theme=transparent
-    &hide_border=true
-    &date_format=j%20M%5B%20Y%5D
-    &background=00000000
-    &ring=7fe6ff
-    &fire=f38ba8
-    &currStreakLabel=89ddff" 
-    height="165"
-  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---

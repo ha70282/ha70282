@@ -35,7 +35,7 @@
 ---
 ## 🧩 Solved.ac
 
-<div align="center">
+<div align="center" style="margin-bottom: 40px;">
 
   <span>
     <a href="https://solved.ac/ha70282">
@@ -43,19 +43,20 @@
     </a>
   </span>
 
-  <span style="margin-left: 20px;">
+  <span style="margin-left: 25px;">
     <img src="http://mazandi.herokuapp.com/api?handle=ha70282&theme=warm" height="160"/>
   </span>
 
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 40px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg" width="800">
   </picture>
 </p>
+
 
 ---
 

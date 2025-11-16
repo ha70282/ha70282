@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=aura" />
 </p>
 
 

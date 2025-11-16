@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=&fontColor=ffffff&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,4ade80&height=180&section=header&text=Welcome!&fontColor=ffffff&fontSize=45)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,8 +13,6 @@
 </p>
 
 ---
-
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack
 
@@ -61,7 +59,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 📍 About Me
@@ -70,10 +67,17 @@
 
 ---
 
-## 📊 GitHub Stats (Aura style)
+## 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=aura" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=aura"
+  />
+  <img 
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ha70282&theme=transparent&hide_border=true&ring=7fe6ff&fire=f38ba8&currStreakLabel=89ddff"
+  />
 </div>
 
 ---
@@ -88,17 +92,6 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=ha70282&theme=warm" width="300"/>
 
-</div>
-
----
-
-## 🔥 GitHub Streaks (Aura color tuning)
-
-<div align="center">
-  <img 
-    height="200"
-    src="https://github-readme-streak-stats.herokuapp.com?user=ha70282&theme=transparent&hide_border=true&ring=7fe6ff&fire=f38ba8&currStreakLabel=89ddff"
-  />
 </div>
 
 ---
@@ -119,6 +112,6 @@
   <i>🌱 Thanks for stopping by!</i>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4ade80,8B5CF6&height=150&section=footer)
 
 

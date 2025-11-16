@@ -11,10 +11,16 @@
 </p>
 
 <p align="center">
-  🎓 CS @ <b>Hankuk University of Foreign Studies</b> <br/>
-  💻 Backend & Frontend developer <br/>
-  ☁️ Cloud enthusiast — especially Azure <br/>
+  
+## 📍 About Me
+<p align="center">
+  🎓 CS Student at <b>Hankuk University of Foreign Studies</b> <br/>
+  💻 Backend & Frontend Developer <br/>
+  ☁️ Cloud Enthusiast — especially Azure <br/>
+  🏡 Based in <b>Gangneung, Korea</b> <br/>
+  📫 Contact: <b>ha70282@naver.com</b>
 </p>
+
 
 ---
 
@@ -55,21 +61,6 @@
 </div>
 ---
 
-## 📊 GitHub Stats & Streak
-
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=aura"
-  />
-  <img 
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com?user=ha70282&theme=transparent&hide_border=true&ring=7fe6ff&fire=f38ba8&currStreakLabel=89ddff"
-  />
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 <h3 align="center">Languages</h3>
@@ -97,11 +88,6 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45"/>
 </p>
 
----
-
-## 📍 About Me
-- 🏡 Based in **Gangneung, Korea**
-- 📫 Contact: **ha70282@naver.com**
 
 ---
 

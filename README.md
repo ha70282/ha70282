@@ -48,7 +48,6 @@
 <br/><br/>
 
 <!-- Apple Style GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=dedede&icon_color=ffffff" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ha70282&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
 

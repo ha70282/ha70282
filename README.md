@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=catppuccin_mocha" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=aura" />
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha70282)](https://solved.ac/ha70282)

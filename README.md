@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,4ade80&height=180&section=header&text=Welcome!&fontColor=ffffff&fontSize=45)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=180&section=header&text=&fontColor=000&fontSize=45" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -112,6 +114,9 @@
   <i>🌱 Thanks for stopping by!</i>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=4ade80,8B5CF6&height=150&section=footer)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=150&section=footer" />
+</p>
 
 

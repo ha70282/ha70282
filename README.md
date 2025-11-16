@@ -34,8 +34,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=neon" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=catppuccin_mocha" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha70282&layout=compact&theme=catppuccin_mocha" />
 </p>
+
 
 
 _Thanks for stopping by!_ 🌱

@@ -33,6 +33,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ha70282&show_icons=true&theme=gotham" />
+</p>
+
+
 _Thanks for stopping by!_ 🌱
 
 

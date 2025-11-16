@@ -35,7 +35,7 @@
 ---
 ## 🧩 Solved.ac
 
-<div align="center" style="margin-bottom: 40px;">
+<div align="center">
 
   <span>
     <a href="https://solved.ac/ha70282">
@@ -43,13 +43,15 @@
     </a>
   </span>
 
-  <span style="margin-left: 25px;">
+  <span style="margin-left: 30px;">
     <img src="http://mazandi.herokuapp.com/api?handle=ha70282&theme=warm" height="160"/>
   </span>
 
 </div>
 
-<p align="center" style="margin-top: 40px;">
+<br/><br/> <!-- 🔥 간격 두 배로 늘림 -->
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph.svg">

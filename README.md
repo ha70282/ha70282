@@ -53,8 +53,6 @@
 
 <br/><br/>
 
-<!-- Grass Chart (Apple Mint Color) -->
-<img src="https://ghchart.rshah.org/4de2cf/ha70282" width="750"/>
 
 ---
 <picture>

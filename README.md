@@ -16,10 +16,6 @@
   ☁️ Cloud enthusiast — especially Azure <br/>
 </p>
 
----
-
-## 🟨 Pac-Man Contribution Graph
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha70282/ha70282/output/pacman-contribution-graph-dark.svg">

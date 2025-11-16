@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=B4B3FF&center=true&vCenter=true&width=450&height=70&lines=Hello%2C+I%E2%80%99m+Ha7028+%F0%9F%91%8B;Welcome+to+my+GitHub+%E2%9C%A8)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=B4B3FF&center=true&vCenter=true&width=450&height=70&lines=Hello%2C+I%E2%80%99m+Ha7028+%F0%9F%91%8B;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   🎓 CS @ <b>Hankuk University of Foreign Studies</b> <br/>
